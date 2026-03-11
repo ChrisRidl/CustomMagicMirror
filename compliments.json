@@ -48,118 +48,109 @@
         "The plants are loving this weather!",
         "A little rain never hurt anyone — stay dry!"
     ],
-    "cloudy": [
+    "day_cloudy": [
         "Every cloud has a silver lining!",
         "Cloudy skies, bright spirits!",
         "No sun needed — you light up the room!"
     ],
-    "sunny": [
+    "day_sunny": [
         "What a beautiful sunny day!",
         "Don't forget your sunscreen!",
         "Perfect weather to get outside and enjoy!",
         "Sunshine is the best medicine!",
         "Soak up that vitamin D today!"
     ],
-    "hot": [
-        "Stay cool and hydrated out there!",
-        "It's a scorcher — drink plenty of water!",
-        "Perfect pool weather!"
+    "thunderstorm": [
+        "Stay safe and stay indoors!",
+        "Perfect weather to curl up with a good movie.",
+        "Thunder only happens when it's raining — stay dry!"
     ],
-    "cold": [
-        "Bundle up, it's chilly out there!",
-        "Perfect weather for hot soup and warm blankets.",
-        "Stay warm out there!"
+    "fog": [
+        "Foggy out there — drive safe!",
+        "A little mystery in the air today!"
     ],
-    "Jan1": [
+    "....-01-01": [
         "Happy New Year! Make it your best year yet!",
         "New year, new adventures ahead!",
         "Cheers to a fresh start and endless possibilities!"
     ],
-    "Jan7": [
-        "Happy Birthday Clayton! Hope your day is amazing! 🎂",
-        "It's Clayton's birthday — let's celebrate! 🎉"
+    "....-01-07": [
+        "Happy Birthday Clayton! Hope your day is amazing!",
+        "It's Clayton's birthday — let's celebrate!"
     ],
-    "Jan15": [
+    "....-01-15": [
         "Happy Martin Luther King Jr. Day!",
         "Today we honor a great legacy of courage and equality."
     ],
-    "Feb14": [
+    "....-02-14": [
         "Happy Valentine's Day! Spread the love today!",
         "Love is in the air — tell someone you care!",
         "Happy Valentine's Day to the best family around!"
     ],
-    "Mar17": [
+    "....-03-17": [
         "Happy St. Patrick's Day! Feeling lucky today?",
         "May the luck of the Irish be with you!",
         "Wear green or get pinched!"
     ],
-    "Mar23": [
-        "Happy Birthday Mason! Hope it's an awesome day! 🎂",
-        "It's Mason's birthday — make it a great one! 🎉"
+    "....-03-23": [
+        "Happy Birthday Mason! Hope it's an awesome day!",
+        "It's Mason's birthday — make it a great one!"
     ],
-    "Apr1": [
+    "....-04-01": [
         "Happy April Fools' Day — don't get pranked!",
-        "Watch your back today... just saying! 😄"
+        "Watch your back today... just saying!"
     ],
-    "May12": [
-        "Happy Mother's Day to all the amazing moms!",
-        "Shoutout to the best mom in the world today!"
-    ],
-    "Jun19": [
+    "....-06-19": [
         "Happy Juneteenth! Celebrating freedom and community today."
     ],
-    "Jun15": [
-        "Happy Father's Day to all the amazing dads!",
-        "Shoutout to the best dad in the world today!"
+    "....-07-01": [
+        "Happy Birthday Becky! Hope your day is as wonderful as you are!",
+        "It's Becky's birthday — celebrate good times!"
     ],
-    "Jul1": [
-        "Happy Birthday Becky! Hope your day is as wonderful as you are! 🎂",
-        "It's Becky's birthday — celebrate good times! 🎉"
-    ],
-    "Jul12": [
-        "Happy Birthday Addison! Hope your day is absolutely amazing! 🎂",
-        "It's Addison's birthday — let's party! 🎉"
-    ],
-    "Jul4": [
+    "....-07-04": [
         "Happy 4th of July! Have a safe and fun celebration!",
         "Land of the free, home of the brave — Happy Independence Day!",
         "Hope your day is filled with fireworks and fun!"
     ],
-    "Oct11": [
-        "Happy Birthday Oldman... I mean Chris! 🎂😄",
-        "It's Chris's birthday — hope it's a great one! 🎉"
+    "....-07-12": [
+        "Happy Birthday Addison! Hope your day is absolutely amazing!",
+        "It's Addison's birthday — let's party!"
     ],
-    "Oct31": [
+    "....-10-11": [
+        "Happy Birthday Oldman... I mean Chris!",
+        "It's Chris's birthday — hope it's a great one!"
+    ],
+    "....-10-31": [
         "Happy Halloween! Don't eat too much candy!",
         "Trick or treat — have a spooky good time!",
         "Boo! Happy Halloween from your magic mirror!"
     ],
-    "Nov11": [
+    "....-11-11": [
         "Happy Veterans Day! Thank you to all who served.",
         "Honoring our veterans today and every day."
     ],
-    "Nov28": [
+    "....-11-28": [
         "Happy Thanksgiving! Grateful for this amazing family.",
         "Count your blessings today — there are so many!",
         "Thankful for every moment spent together."
     ],
-    "Dec20": [
-        "Happy Birthday Alexis! Hope your day is extra special! 🎂",
-        "It's Alexis's birthday — so close to Christmas but all about her today! 🎉"
+    "....-12-20": [
+        "Happy Birthday Alexis! Hope your day is extra special!",
+        "It's Alexis's birthday — so close to Christmas but all about her today!"
     ],
-    "Dec24": [
+    "....-12-24": [
         "Happy Christmas Eve! Santa is on his way!",
         "The magic of Christmas is almost here!",
         "One more sleep until Christmas!"
     ],
-    "Dec25": [
+    "....-12-25": [
         "Merry Christmas! Hope your day is filled with joy!",
         "Wishing you a magical Christmas surrounded by loved ones!",
         "Ho ho ho — Merry Christmas from your magic mirror!"
     ],
-    "Dec31": [
+    "....-12-31": [
         "Happy New Year's Eve! Tonight we celebrate!",
         "One last day of the year — make it count!",
-        "See you next year! 🎉"
+        "See you next year!"
     ]
 }
