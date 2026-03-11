@@ -1,0 +1,165 @@
+{
+    "anytime": [
+        "Have a wonderful day!",
+        "You are amazing!",
+        "Make today count!",
+        "Smile, it looks great on you!",
+        "You make this house a home.",
+        "Today is going to be a great day!",
+        "You are loved more than you know.",
+        "Keep being awesome!",
+        "Every day with you is a gift.",
+        "You bring sunshine wherever you go!"
+    ],
+    "morning": [
+        "Good morning, sunshine!",
+        "Rise and shine, superstar!",
+        "Today is full of possibilities!",
+        "A great day starts with a great attitude!",
+        "Morning! Go out there and crush it!",
+        "The early bird gets the worm — you've got this!",
+        "Good morning! Make it a day to remember."
+    ],
+    "afternoon": [
+        "Keep up the great work this afternoon!",
+        "You're halfway there — finish strong!",
+        "Hope your day is going wonderfully!",
+        "Afternoon check-in: you're doing great!",
+        "Stay focused, you've got this!"
+    ],
+    "evening": [
+        "Hope you had an amazing day!",
+        "Time to relax — you earned it!",
+        "Good evening! Rest up for another great day tomorrow.",
+        "You made it through another awesome day!",
+        "Evening time — you deserve to unwind."
+    ],
+    "snow": [
+        "It's a snow day — hot cocoa time!",
+        "Bundle up out there!",
+        "Snow is just winter's way of having fun!",
+        "Perfect day to stay cozy inside.",
+        "Let it snow, let it snow, let it snow!"
+    ],
+    "rain": [
+        "Don't forget your umbrella!",
+        "Rainy days are perfect for staying cozy.",
+        "Every rainy day ends with sunshine.",
+        "The plants are loving this weather!",
+        "A little rain never hurt anyone — stay dry!"
+    ],
+    "cloudy": [
+        "Every cloud has a silver lining!",
+        "Cloudy skies, bright spirits!",
+        "No sun needed — you light up the room!"
+    ],
+    "sunny": [
+        "What a beautiful sunny day!",
+        "Don't forget your sunscreen!",
+        "Perfect weather to get outside and enjoy!",
+        "Sunshine is the best medicine!",
+        "Soak up that vitamin D today!"
+    ],
+    "hot": [
+        "Stay cool and hydrated out there!",
+        "It's a scorcher — drink plenty of water!",
+        "Perfect pool weather!"
+    ],
+    "cold": [
+        "Bundle up, it's chilly out there!",
+        "Perfect weather for hot soup and warm blankets.",
+        "Stay warm out there!"
+    ],
+    "Jan1": [
+        "Happy New Year! Make it your best year yet!",
+        "New year, new adventures ahead!",
+        "Cheers to a fresh start and endless possibilities!"
+    ],
+    "Jan7": [
+        "Happy Birthday Clayton! Hope your day is amazing! 🎂",
+        "It's Clayton's birthday — let's celebrate! 🎉"
+    ],
+    "Jan15": [
+        "Happy Martin Luther King Jr. Day!",
+        "Today we honor a great legacy of courage and equality."
+    ],
+    "Feb14": [
+        "Happy Valentine's Day! Spread the love today!",
+        "Love is in the air — tell someone you care!",
+        "Happy Valentine's Day to the best family around!"
+    ],
+    "Mar17": [
+        "Happy St. Patrick's Day! Feeling lucky today?",
+        "May the luck of the Irish be with you!",
+        "Wear green or get pinched!"
+    ],
+    "Mar23": [
+        "Happy Birthday Mason! Hope it's an awesome day! 🎂",
+        "It's Mason's birthday — make it a great one! 🎉"
+    ],
+    "Apr1": [
+        "Happy April Fools' Day — don't get pranked!",
+        "Watch your back today... just saying! 😄"
+    ],
+    "May12": [
+        "Happy Mother's Day to all the amazing moms!",
+        "Shoutout to the best mom in the world today!"
+    ],
+    "Jun19": [
+        "Happy Juneteenth! Celebrating freedom and community today."
+    ],
+    "Jun15": [
+        "Happy Father's Day to all the amazing dads!",
+        "Shoutout to the best dad in the world today!"
+    ],
+    "Jul1": [
+        "Happy Birthday Becky! Hope your day is as wonderful as you are! 🎂",
+        "It's Becky's birthday — celebrate good times! 🎉"
+    ],
+    "Jul12": [
+        "Happy Birthday Addison! Hope your day is absolutely amazing! 🎂",
+        "It's Addison's birthday — let's party! 🎉"
+    ],
+    "Jul4": [
+        "Happy 4th of July! Have a safe and fun celebration!",
+        "Land of the free, home of the brave — Happy Independence Day!",
+        "Hope your day is filled with fireworks and fun!"
+    ],
+    "Oct11": [
+        "Happy Birthday Oldman... I mean Chris! 🎂😄",
+        "It's Chris's birthday — hope it's a great one! 🎉"
+    ],
+    "Oct31": [
+        "Happy Halloween! Don't eat too much candy!",
+        "Trick or treat — have a spooky good time!",
+        "Boo! Happy Halloween from your magic mirror!"
+    ],
+    "Nov11": [
+        "Happy Veterans Day! Thank you to all who served.",
+        "Honoring our veterans today and every day."
+    ],
+    "Nov28": [
+        "Happy Thanksgiving! Grateful for this amazing family.",
+        "Count your blessings today — there are so many!",
+        "Thankful for every moment spent together."
+    ],
+    "Dec20": [
+        "Happy Birthday Alexis! Hope your day is extra special! 🎂",
+        "It's Alexis's birthday — so close to Christmas but all about her today! 🎉"
+    ],
+    "Dec24": [
+        "Happy Christmas Eve! Santa is on his way!",
+        "The magic of Christmas is almost here!",
+        "One more sleep until Christmas!"
+    ],
+    "Dec25": [
+        "Merry Christmas! Hope your day is filled with joy!",
+        "Wishing you a magical Christmas surrounded by loved ones!",
+        "Ho ho ho — Merry Christmas from your magic mirror!"
+    ],
+    "Dec31": [
+        "Happy New Year's Eve! Tonight we celebrate!",
+        "One last day of the year — make it count!",
+        "See you next year! 🎉"
+    ]
+}
